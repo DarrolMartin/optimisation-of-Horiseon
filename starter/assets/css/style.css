@@ -3,9 +3,9 @@
     padding: 0;
     margin: 0;
 }
-
+/* adjusted color to make it pass the accessibility contrast test  */
 body {
-    background-color: #d9dcd6;
+    background-color: #dbdbde;
 }
 
 .header {
