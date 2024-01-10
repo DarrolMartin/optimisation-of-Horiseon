@@ -86,11 +86,17 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-test {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
